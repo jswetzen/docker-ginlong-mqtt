@@ -1,0 +1,6 @@
+paho-mqtt==1.4.0
+socket
+binascii
+time
+sys
+string
